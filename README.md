@@ -1,2 +1,2 @@
 # Computacao-Grafica
-Disciplina de Computação G´rafica | UFN
+Disciplina de Computação Gráfica | UFN
